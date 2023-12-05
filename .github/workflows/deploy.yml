@@ -40,9 +40,9 @@ jobs:
         run: |
           jupyter-book build data_storytelling
 
-      # Push the book's HTML to github-pages
-      - name: GitHub Pages action
-        uses: peaceiris/actions-gh-pages@v3.6.1
+      # Upload the book's HTML as an artifact
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
           path: "data_storytelling/_build/html"
 
