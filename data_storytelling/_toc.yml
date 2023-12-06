@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: projects/introductions.md 
+- file: projects/interactive-plots.md
+- file: projects/storymaps.md
+- file: projects/audio.md
+- file: projects/video.md
+- file: projects/virtual-reality.md
+- file: projects/machine-learning.md
