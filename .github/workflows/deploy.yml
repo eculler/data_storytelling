@@ -40,6 +40,11 @@ jobs:
       - name: Build the book
         run: |
           jupyter-book build data_storytelling
+
+      # Skip Jekyll so that static files get deployed
+      - name: Add nojekyll file
+        run: |
+          touch ./data_storytelling/_build/html/.nojekyll
           
       # Push the book's HTML to github-pages
       - name: GitHub Pages action
