@@ -30,7 +30,7 @@ Data storytelling is an interdisciplinary field. This class is for:
   * Web developers interested in creating engaging, interactive sites about science
   * Anyone working towards a degree in any of the above
 
-If you don't have any background in coding or statistics, I'd recommend you start there and come back to Data Storytelling later on.
+If you don't have any background in coding or statistics (at the level of one introductory course), I'd recommend you start there and come back to Data Storytelling later on.
 
 ## What will you learn?
 
