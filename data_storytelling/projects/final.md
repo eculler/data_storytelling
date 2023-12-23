@@ -29,5 +29,6 @@ For the final project, you will be evaluated primarily on:
   * The design of your data story
   * Your reflection
   * An evaluation by the scientist(s) you are working with as to whether or not they feel their work is well-represented
+  * Completing substantive peer reviews
 
 If there are parts of your website that do not work as you were hoping, you can add a section to your reflection that explains what you were aiming for
