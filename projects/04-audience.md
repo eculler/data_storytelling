@@ -11,7 +11,7 @@ To complete this assignment, you should speak to at least one person who is a me
 For this week's assignment, submit:
 
 1. A [Jamboard](https://edu.google.com/intl/ALL_us/jamboard/) that defines your audience using words (your own, or quotes from interviews), pictures, your own drawings, videos, published literature about your audience, and/or examples of data stories geared at your audience.
-2. A 3-5 minute video in which your present what you have learned about your audience, to be played in class for peer review
+2. A 3-5 minute video in which your present what you have learned about your audience and the rhetorical situation of your data story, to be played in class for peer review
 
 using the "Audience Submission Survey" on the [Important Information page of the syllabus]().
 
@@ -24,16 +24,17 @@ When exploring which audience you hope to reach, you should consider:
   * Age group and/or educational background
   * Identities and life experiences
   * Where will they encounter your story? On social media? In a newspaper? Literary journal? At a museum?
-  * How will they engage with your story?
   * What do you expect them to already know about your topic?
   * Why is your topic important to them?
-  * How would you go about reaching this audience?
+  * Why now (exigence)?
+  * How do you hope they will change (purpose)?
   * What are your audiences *needs* as it pertains to science or your topic specifically?
   * What does your audience *value* as it pertains to science or your topic?
 
 ## Reading
 
 
+  * [Rhetorical Situation](https://pressbooks.pub/openenglishatslcc/chapter/the-rhetorical-situation/)
   * [Defending Science](https://theconversation.com/defending-science-how-the-art-of-rhetoric-can-help-68210)
   * Introduction from The Situation and the Story by Vivian Gornick
   * [Data Feminism Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
@@ -46,3 +47,14 @@ You **will not** be evaluated on the graphic design of your Jamboard! In fact, a
 ```
 
 You will be evaluated by me and the other students in your section based on the following rubric.
+
+| Category | Description | Points |
+|---|---|---|
+| Audience | Does the presentation define the audience of the data story? | 15 |
+| Audience | Is the audience based in part on interviews with at least one member of the audience or expert on the audience? | 5 |
+| Rhetorical situation | Does the presentation define the subject of the data story? | 5 |
+| Rhetorical situation | Does the presentation define the exigence of the data story? | 5 |
+| Rhetorical situation | Does the presentation define the purpose of the data story? | 5 |
+| Personas | Does the presentation define needs of the audience? | 5 |
+| Personas | Does the presentation define values of the audience? | 5 |
+| (Instructor only) Time limit | Is the presentation 3-5 minutes? | 5 |
