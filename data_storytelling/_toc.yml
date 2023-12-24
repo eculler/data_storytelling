@@ -4,11 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: projects/introductions.md 
-- file: projects/interactive-plots.md
-- file: projects/storymaps.md
-- file: projects/audio.md
-- file: projects/video.md
-- file: projects/virtual-reality.md
-- file: projects/machine-learning.md
-- file: projects/final.md
+- file: projects/01-introductions.md 
+- file: projects/02-meet-your-partner.md
+- file: projects/03-change-over-time.md
+- file: projects/04-audience.md
+- file: projects/13-final.md
