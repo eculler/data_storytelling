@@ -354,7 +354,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -370,6 +372,15 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tell-your-own-earth-data-story-with-your-bio">Tell your own (earth data) story with your bio</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-a-beautiful-and-interactive-web-page-without-writing-a-lot-of-code-using-a-theme">Create a beautiful and interactive web page (without writing a lot of code) using a theme</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -384,10 +395,27 @@ document.write(`
 <p>Use <a class="reference external" href="https://earthlab-education.github.io/Earth-Analytics-2023-01-Intro/create-portfolio-website/00-create-portfolio-website.html">these instructions</a> to create and publish a portfolio website on GitHub.</p>
 <p>You will post all your work on your portfolio throughout the semester. You can also choose to add other projects if you like. For now, your portfolio should have:</p>
 <ul class="simple">
-<li><p>A brief bio</p></li>
-<li><p>A photo</p></li>
+<li><p>A bio</p></li>
+<li><p>A photo or emblem</p></li>
 <li><p>A theme</p></li>
 </ul>
+<section id="tell-your-own-earth-data-story-with-your-bio">
+<h2>Tell your own (earth data) story with your bio<a class="headerlink" href="#tell-your-own-earth-data-story-with-your-bio" title="Permalink to this heading">#</a></h2>
+<p>When writing your bio, you should think about:</p>
+<ol class="arabic simple">
+<li><p>the audience for your portfolio, such as classmates, colleagues, or potential employers</p></li>
+<li><p>the <em>rhetorical situation</em> for a portfolio – when, where, and how will your audience encounter your portfolio, and how do you hope to impact them? For example, you might want to convince a potential employer that you have the skills and credentials necessary to do a particular job.</p></li>
+</ol>
+<p>In order to effectively address the audience and situation of your portfolio, you might want to include:</p>
+<ol class="arabic simple">
+<li><p>Information about your educational background and work experience</p></li>
+<li><p>Your identity and communities you are a part of that influence your work</p></li>
+<li><p>Your motivation to practice Earth Data Storytelling. Whose stories do you want to tell and why?</p></li>
+</ol>
+<p>Your photo or emblem should support your bio – choose an image that draws the reader into your story.</p>
+</section>
+<section id="create-a-beautiful-and-interactive-web-page-without-writing-a-lot-of-code-using-a-theme">
+<h2>Create a beautiful and interactive web page (without writing a lot of code) using a theme<a class="headerlink" href="#create-a-beautiful-and-interactive-web-page-without-writing-a-lot-of-code-using-a-theme" title="Permalink to this heading">#</a></h2>
 <p><strong>Static</strong> websites like your portfolio have three components:</p>
 <ol class="arabic simple">
 <li><p>Content, written in some type of structured markup language like Markdown or Hyper-Text Markup Language (HTML)</p></li>
@@ -395,7 +423,9 @@ document.write(`
 <li><p>Interactive components, written in Javascript</p></li>
 </ol>
 <p>You may eventually want to write a website that has a more developed <strong>back end</strong>, allowing you to dynamically build webpages based on a database or perform calculations on your web server. You can’t do either of those things with GitHub Pages, but you can still make an attractive and interactive webpage using HTML, CSS, and Javascript.</p>
-<p>A website I recommend finding a <a class="reference external" href="https://startbootstrap.com/themes">free bootstrap theme</a> that you like, but you may also use one of the built-in GitHub Pages themes.</p>
+<p>A website theme will apply CSS styling and Javascript interactivity to your page, allowing you to create a beautiful and functional webpage using only Markup language and perhaps a few configuration parameters.</p>
+<p>I recommend finding a <a class="reference external" href="https://startbootstrap.com/themes">free bootstrap theme</a> that you like, but you may also use one of the <a class="reference external" href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme">built-in GitHub Pages themes</a>. To apply a bootstrap theme, you will likely want to start with the demo files provided by the theme and then edit them. The built-in Jekyll themes can be applied with a configuration file only.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -453,7 +483,21 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tell-your-own-earth-data-story-with-your-bio">Tell your own (earth data) story with your bio</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-a-beautiful-and-interactive-web-page-without-writing-a-lot-of-code-using-a-theme">Create a beautiful and interactive web page (without writing a lot of code) using a theme</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
