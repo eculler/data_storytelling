@@ -8,6 +8,8 @@ You will post all your work on your portfolio throughout the semester. You can a
   * A photo or emblem
   * A theme
 
+When we next meet, you will give a 2-3 minute presentation introducing yourself. You should also highlight two rhetorical choices you made when building your portfolio and explain why you made them.
+
 ## Tell your own (earth data) story with your bio
 
 When writing your bio, you should think about:
@@ -35,3 +37,6 @@ You may eventually want to write a website that has a more developed **back end*
 A website theme will apply CSS styling and Javascript interactivity to your page, allowing you to create a beautiful and functional webpage using only Markup language and perhaps a few configuration parameters.
 
 I recommend finding a [free bootstrap theme](https://startbootstrap.com/themes) that you like, but you may also use one of the [built-in GitHub Pages themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme). To apply a bootstrap theme, you will likely want to start with the demo files provided by the theme and then edit them. The built-in Jekyll themes can be applied with a configuration file only.
+
+## Examples of the Earth Data Science web portfolio genre
+
